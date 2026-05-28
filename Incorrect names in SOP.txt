@@ -1,0 +1,15 @@
+Left - Incorrect, Right - Correct
+Note: Use the Match Case and Match Whole Word filters.
+If there are comma separated words on both sides, then the first two words on the left side should be replaced with the first word on the right side. The same applies to the last two words on the left side except they should be replaced with the second word on the right side.
+
+Freedom fighter, Freedom Fighter, Freedom fighters, Freedom Fighters - Freedomer, Freedomers
+Dolgar, Dutier, Dolgars, Dutiers - Dutyer, Dutyers
+Dolg - Duty
+Bar "Stalker" - Stalker Bar
+Light Beam, Bright Beam, Bright Light - Bright Path
+Quiet Hills, Hills - Silent Hills
+Barkeep Rat - Barkeep "Rat"
+the Bartender, Bartender, The Barkeep, the Barkeep - Barkeep
+
+
+
