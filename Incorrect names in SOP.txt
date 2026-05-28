@@ -7,7 +7,7 @@ Dolgar, Dutier, Dolgars, Dutiers - Dutyer, Dutyers
 Dolg - Duty
 Bar "Stalker" - Stalker Bar
 Light Beam, Bright Beam, Bright Light - Bright Path
-Quiet Hills, Hills - Silent Hills
+Quiet Hills, Hills (without Quiet or Silent) - Silent Hills
 Barkeep Rat - Barkeep "Rat"
 the Bartender, Bartender, The Barkeep, the Barkeep - Barkeep
 
