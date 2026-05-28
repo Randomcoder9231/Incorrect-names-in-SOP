@@ -11,5 +11,6 @@ Quiet Hills, Hills (without Quiet or Silent) - Silent Hills
 Barkeep Rat - Barkeep "Rat"
 the Bartender, Bartender, The Barkeep, the Barkeep - Barkeep
 Dump, the Dump - Garbage
+Mincer, Carousel - Whirligig
 
 
